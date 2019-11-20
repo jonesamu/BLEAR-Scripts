@@ -49,7 +49,7 @@ chmod a+x ./BLEAR*
 
 ##### 06. Run Install Client
 ```bash
-./BLEAR_Install_Client
+./BLEAR_Install_Client.sh
 ```
 
 ##### 07. Modify BLEAR_Create.sh 
