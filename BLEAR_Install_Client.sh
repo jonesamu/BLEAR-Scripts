@@ -5,7 +5,7 @@
 
 
 # Create directory
-mkdir /opt/lego/
+#mkdir /opt/lego/
 
 # Get Lego and Install in /opt/lego/
 # Latest Lego release
