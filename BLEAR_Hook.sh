@@ -16,6 +16,6 @@ cp $FULL_PATH_NEW_CERT$CERT_NAME.key $SERVER_KEY_STORE
 cp $FULL_PATH_NEW_CERT$CERT_NAME.crt $SERVER_CERT_STORE
 
 # Restart the webserver
-service httpd restart
+/sbin/service httpd restart
 # systemctl restart httpd
 

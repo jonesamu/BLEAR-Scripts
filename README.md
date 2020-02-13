@@ -44,7 +44,7 @@ cd /opt/lego/BLEAR-Scripts/
 
 ##### 05. Set all scripts to be Executable
 ```bash
-chmod a+x ./BLEAR*
+chmod a+x ./*.sh
 ```
 
 ##### 06. Run Install Client

@@ -19,7 +19,7 @@ FULL_PATH="/opt/lego/.lego/"
 
 # Server Variables
 RENEW_DAYS="45"
-RENEW_HOOK_SCRIPT="./BLEAR_Hook.sh"
+RENEW_HOOK_SCRIPT="/opt/lego/BLEAR-Scripts/BLEAR_Hook.sh"
 DOMAIN_TO_RENEW_CERT="louie.netel.isu.edu"
 
 
