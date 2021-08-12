@@ -4,7 +4,7 @@
 # Authors: Sam Jones, Seth Timmons
 
 # New Cert Domain
-CERT_NAME="<domain.local>"
+CERT_NAME="<full.domain.name.com>"
 
 # Cert Paths
 FULL_PATH_NEW_CERT="/opt/lego/.lego/certificates/"
