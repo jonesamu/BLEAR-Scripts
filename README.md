@@ -73,12 +73,12 @@ export BLUECAT_PASSWORD="<API password>"
 
 # Bluecat Organization Variables
 export BLUECAT_SERVER_URL="<bluecat.ipam.url.com>"
-export BLUECAT_CONFIG_NAME="<Your Organization>"
-export BLUECAT_DNS_VIEW="default"
+export BLUECAT_CONFIG_NAME="<bluecat ipam config name>"
+export BLUECAT_DNS_VIEW="<bluecat dns view>"
 
 
 # Admin Variables
-ADMIN_EMAIL="<admin email>"
+ADMIN_EMAIL="<admin@email.com>"
 FULL_PATH="/opt/lego/.lego/"
 
 # Server Variables
@@ -138,8 +138,8 @@ export BLUECAT_PASSWORD="<API password>"
 
 # Bluecat Organization Variables
 export BLUECAT_SERVER_URL="<bluecat.ipam.url.com>"
-export BLUECAT_CONFIG_NAME="<Your Organization>"
-export BLUECAT_DNS_VIEW="default"
+export BLUECAT_CONFIG_NAME="<bluecat ipam config name>"
+export BLUECAT_DNS_VIEW="<bluecat dns view>"
 
 # Admin Variables
 ADMIN_EMAIL="<admin@email.com>"

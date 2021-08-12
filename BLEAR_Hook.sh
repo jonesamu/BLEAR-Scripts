@@ -4,7 +4,7 @@
 # Authors: Sam Jones, Seth Timmons
 
 # New Cert Domain
-CERT_NAME="louie.netel.isu.edu"
+CERT_NAME="<domain.local>"
 
 # Cert Paths
 FULL_PATH_NEW_CERT="/opt/lego/.lego/certificates/"
